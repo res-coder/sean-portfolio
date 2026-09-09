@@ -121,7 +121,7 @@ StaffOps brings common staff workflows into one organized system. It combines mo
 The main StaffOps interface gives staff one place to access moderation and operational tools instead of relying on disconnected commands.
 
 <p align="center">
-  <img src="assets/staffops/staff-operations.gif" alt="StaffOps Staff Operations" width="700">
+  <img src="https://raw.githubusercontent.com/res-coder/sean-portfolio/main/assets/staffops/staff-operations.gif" alt="StaffOps Staff Operations" width="700">
 </p>
 
 ### Player Inspector

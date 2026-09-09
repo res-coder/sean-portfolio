@@ -108,6 +108,73 @@ Performance-sensitive operations are designed to avoid unnecessary work on the M
 
 ---
 
+## 🛡️ StaffOps
+
+**Advanced staff operations, moderation, investigation, and server-management suite for Minecraft Paper servers.**
+
+`Java 21` `Paper` `Maven` `SQLite` `HikariCP` `Adventure` `MiniMessage`
+
+StaffOps brings common staff workflows into one organized system. It combines moderation tools, player inspection, staff mode, vanish, reports, punishments, evidence/case tools, auditing, and server operations interfaces so staff can work from a consistent set of commands and GUIs.
+
+### Staff Operations
+
+The main StaffOps interface gives staff one place to access moderation and operational tools instead of relying on disconnected commands.
+
+<p align="center">
+  <img src="assets/staffops/staff-operations.gif" alt="StaffOps main staff operations interface" width="700">
+</p>
+
+### Player Inspector
+
+Staff can open a player-focused management interface containing useful account, permission, moderation, and investigation information with actions available from the same workflow.
+
+<p align="center">
+  <img src="assets/staffops/player-inspector.gif" alt="StaffOps player inspector" width="700">
+</p>
+
+### Server Operations Center
+
+StaffOps also includes an operations view for server health, staff activity, security, and administrative information.
+
+<p align="center">
+  <img src="assets/staffops/operations-center.gif" alt="StaffOps server operations center" width="700">
+</p>
+
+### Staff Mode
+
+Staff Mode provides a dedicated protected toolset for live moderation and investigation. Staff inventory state is handled separately so moderation tools cannot be moved or treated like normal player items.
+
+<p align="center">
+  <img src="assets/staffops/staff-mode.gif" alt="StaffOps staff mode and moderation tools" width="700">
+</p>
+
+### Key Features
+
+- Staff Mode with protected moderation tools
+- Advanced vanish controls
+- Player inspection and management
+- Punishment management and history
+- Player reports and staff workflows
+- Cases, evidence, and staff notes
+- Staff chat and staff-only feedback
+- Server Operations Center
+- Permission-aware administrative tools
+- Persistent SQLite storage with HikariCP
+- Audit logging for important staff actions
+- Configurable messages and behavior
+- Server-side validation and inventory protection
+
+### Engineering Highlights
+
+StaffOps is structured as a larger administrative system rather than a collection of moderation commands. Staff workflows, persistence, permissions, GUI behavior, and auditing are separated into dedicated components so features can be expanded without concentrating the plugin into a single command or listener.
+
+Persistent moderation data is stored through SQLite with connection pooling, while permission checks and important actions are validated server-side. Staff Mode protects its temporary inventory state and moderation tools, and administrative actions are designed with traceability and safe staff workflows in mind.
+
+**Source Code:** Private  
+**Private source review available upon request.**
+
+---
+
 ## More Projects Coming Soon
 
 This portfolio is actively being expanded with additional projects across:

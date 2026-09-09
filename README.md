@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sean Doyle
+# Sean (aka ExtraSean)
 
 ### Software Development Portfolio
 

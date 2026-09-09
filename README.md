@@ -121,7 +121,7 @@ StaffOps brings common staff workflows into one organized system. It combines mo
 The main StaffOps interface gives staff one place to access moderation and operational tools instead of relying on disconnected commands.
 
 <p align="center">
-  <img src="assets/staffops/staff-operations.gif" alt="StaffOps main staff operations interface" width="700">
+  <img src="assets/staffops/staff-operations.gif" alt="StaffOps Staff Operations" width="700">
 </p>
 
 ### Player Inspector
@@ -129,7 +129,7 @@ The main StaffOps interface gives staff one place to access moderation and opera
 Staff can open a player-focused management interface containing useful account, permission, moderation, and investigation information with actions available from the same workflow.
 
 <p align="center">
-  <img src="assets/staffops/player-inspector.gif" alt="StaffOps player inspector" width="700">
+  <img src="assets/staffops/player-inspector.gif" alt="StaffOps Player Inspector" width="700">
 </p>
 
 ### Server Operations Center
@@ -137,7 +137,7 @@ Staff can open a player-focused management interface containing useful account, 
 StaffOps also includes an operations view for server health, staff activity, security, and administrative information.
 
 <p align="center">
-  <img src="assets/staffops/operations-center.gif" alt="StaffOps server operations center" width="700">
+  <img src="assets/staffops/operations-center.gif" alt="StaffOps Operations Center" width="700">
 </p>
 
 ### Staff Mode
@@ -145,7 +145,7 @@ StaffOps also includes an operations view for server health, staff activity, sec
 Staff Mode provides a dedicated protected toolset for live moderation and investigation. Staff inventory state is handled separately so moderation tools cannot be moved or treated like normal player items.
 
 <p align="center">
-  <img src="assets/staffops/staff-mode.gif" alt="StaffOps staff mode and moderation tools" width="700">
+  <img src="assets/staffops/staff-mode.gif" alt="StaffOps Staff Mode" width="700">
 </p>
 
 ### Key Features

@@ -195,4 +195,15 @@ This portfolio is actively being expanded with additional projects across:
 
 Additional technologies will be added as more projects are published.
 
+---
+
+
+<div align="center">
+
+## Contact
+
+Interested in working with me or discussing a project?
+
+**Discord:** `seannyyseann`
+
 </div>
